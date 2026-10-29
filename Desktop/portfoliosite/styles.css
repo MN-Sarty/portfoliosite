@@ -72,9 +72,3 @@ html {
     flex: 0 0 auto; /* Prevents the card from shrinking */
 }
 
-.skill-card:hover {
-    border:2px solid #342519;
-    background-color: #342519;
-    color: #ede6d9;
-}
-
